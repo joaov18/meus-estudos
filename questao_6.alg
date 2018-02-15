@@ -14,6 +14,6 @@ se N1 < N3 entao
 N1 <- N3
 fimse
 fimpara
-escreval("O maior numero digitado é ",N1                                                                                                                                                                                                                                                                                                                               )
+escreval("O maior numero digitado é ",N1)                                                                                                                                                                                                                                                                                                                               )
 fimalgoritmo
 
